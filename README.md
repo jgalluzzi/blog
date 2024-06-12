@@ -24,3 +24,4 @@ Got Elasticsearch install after rebuilding for ubuntu 22 and armine installed. B
 
 I spent the whole evening trying to get Arkmie to work. Backlog.
 
+arkmie https://arkime.com/index#home
