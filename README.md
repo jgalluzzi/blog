@@ -25,3 +25,20 @@ Got Elasticsearch install after rebuilding for ubuntu 22 and armine installed. B
 I spent the whole evening trying to get Arkmie to work. Backlog.
 
 arkmie https://arkime.com/index#home
+
+The Redirect
+
+I sought to redirect help.jgalluzzi.blog to this blog
+I googled, I read.
+Nginx was installed on a new EC2 instance, bodies on the floor of terminated instances and failed exercises.
+
+How to restart nginx
+nginx redirect web
+
+I kept adjusting the nginx config to no avail
+
+Later I found out I screwed up the security group and nothing was getting to the instance. Fuck. I hadn't properly associated the correct security group.
+You need to add the security group and click save, not just select it. Cool.
+<img width="293" alt="image" src="https://github.com/jgalluzzi/blog/assets/46066804/a1848e06-2982-49f8-a50a-f0f66c7f7e11">
+
+
