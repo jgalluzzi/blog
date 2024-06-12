@@ -21,3 +21,6 @@ Do I try elastichsearch instead?
 ![image](https://github.com/jgalluzzi/blog/assets/46066804/60fe911a-8d69-4379-8a7a-f42f4a5f9cb4)
 
 Got Elasticsearch install after rebuilding for ubuntu 22 and armine installed. But now elasticsearch isn't working.
+
+I spent the whole evening trying to get Arkmie to work. Backlog.
+
