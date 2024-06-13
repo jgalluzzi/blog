@@ -21,3 +21,11 @@ So I want these screenshots hosted on github vs uploaded as files. Switching bac
 
 <img width="1087" alt="image" src="https://github.com/jgalluzzi/blog/assets/46066804/2d6123cc-0bbd-4d56-827f-d5a1aa4828cd">
 
+## Github
+
+I chose github to host my blog to keep a low carbon footprint. A way to communicate using less resources.
+Not really. But you could say. 
+
+I just thought it was a neat idea. I could hide little jokes or other things in the commit notes and other features. As I discover how to use github.
+
+
