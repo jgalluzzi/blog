@@ -21,6 +21,9 @@ So I want these screenshots hosted on github vs uploaded as files. Switching bac
 
 <img width="1087" alt="image" src="https://github.com/jgalluzzi/blog/assets/46066804/2d6123cc-0bbd-4d56-827f-d5a1aa4828cd">
 
+And now I need to (forgot) to commit my dir changes from vscode
+
+
 ## Github
 ``` diff
 - I chose github to host my blog to keep a low carbon footprint. A way to communicate using less resources.
