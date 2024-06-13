@@ -2,6 +2,7 @@
 
 Banging my head around AWS in the start of a new home lab. 
 
+
 Just spent 20 minutes trying to download a .deb via curl with bad info on how to do it from Bing AI. Apparently wget works too instead.
 
 I was trying
