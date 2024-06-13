@@ -21,13 +21,15 @@ So I want these screenshots hosted on github vs uploaded as files. Switching bac
 
 <img width="1087" alt="image" src="https://github.com/jgalluzzi/blog/assets/46066804/2d6123cc-0bbd-4d56-827f-d5a1aa4828cd">
 
-And now I need to (forgot) to commit my dir changes from vscode
+And now I need to (forgot) to commit my dir changes from vscode. Nope not going down that road right now. I'll just make them in github. 
+<img width="344" alt="image" src="https://github.com/jgalluzzi/blog/assets/46066804/f0ad5d92-f0f9-4216-8a59-67e2cb194e35">
+I had to make new files. No button to move a directory in the web console.
+
 
 
 ## Github
 ``` diff
-- I chose github to host my blog to keep a low carbon footprint. A way to communicate using less resources.
-Not really. But you could say. 
+- I chose github to host my blog to keep a low carbon footprint. A way to communicate using less resources. Not really. But you could say. 
 
 + I just thought it was a neat idea. I could hide little jokes or other things in the commit notes and other features. As I discover how to use github.
 ```
